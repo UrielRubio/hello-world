@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-s
+testing the commit way
